@@ -1,5 +1,5 @@
 # NLP_MAS
-Group project for NLP
+# Group project for NLP
 
 Avaibale frameworks:
 SWARMS
@@ -7,7 +7,7 @@ SWARMS
 Crewai
 - https://docs.crewai.com/introduction
 
-Objectives:
+# Objectives:
 - Implement a MAS (Multi-Agent System) that utilizes different agents to filter, rank, and recommend courses.
 - Compare and evaluate various MAS architectural styles and LLM-based approaches to determine which combination is most effective for this task
 
@@ -17,9 +17,22 @@ We want to test atlest two architectures and two different llms:
 | llm1 |  res1  |  res2  |
 | llm2 |  res3  |  res4  |
 
-
-
+# Timeline:
 
 | 1.06 | 7.06 | 14.06 | 21.06 | 28.06 |
 |------|------|-------|-------|-------|
 | początek |  pierwszy pipeline dla jednego llma i arachitektury | prototyp wszystkich 4 | testy | raport i koniec | 
+
+---
+# Tutaj wpisujemy postępy
+pierwszy pipeline dla jednego llma i arachitektury:
+ - ...
+
+prototyp wszystkich 4:
+- ...
+
+testy:
+- ...
+
+raport:
+- ...
