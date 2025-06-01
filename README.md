@@ -26,13 +26,24 @@ We want to test atlest two architectures and two different llms:
 ---
 # Tutaj wpisujemy postępy
 pierwszy pipeline dla jednego llma i arachitektury:
+- Co trzeba zrobić:
+- - wybrać llm
+- - wybrać architekturę
+- - zrobić mały podzbiór danych
+- - Zaklepać pipeline
  - ...
 
 prototyp wszystkich 4:
+- Co trzeba zrobić:
+- - ...
 - ...
 
 testy:
+- Co trzeba zrobić:
+- - ...
 - ...
 
 raport:
+- Co trzeba zrobić:
+- - raport końcowy
 - ...
