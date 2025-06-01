@@ -6,6 +6,9 @@ SWARMS
 - https://github.com/kyegomez/swarms
 Crewai
 - https://docs.crewai.com/introduction
+Swarm openai
+- https://github.com/openai/swarm
+
 
 # Objectives:
 - Implement a MAS (Multi-Agent System) that utilizes different agents to filter, rank, and recommend courses.
