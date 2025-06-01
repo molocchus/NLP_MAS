@@ -17,3 +17,9 @@ We want to test atlest two architectures and two different llms:
 | llm1 |  res1  |  res2  |
 | llm2 |  res3  |  res4  |
 
+
+
+
+| 1.06 | 7.06 | 14.06 | 21.06 | 28.06 |
+|------|------|-------|-------|-------|
+| początek |  pierwszy pipeline dla jednego llma i arachitektury | prototyp wszystkich 4 | testy | raport i koniec | 
