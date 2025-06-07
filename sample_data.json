@@ -1,0 +1,170 @@
+[
+  {
+    "Nazwa przedmiotu": "Algorytmiczna teoria modeli",
+    "Opis przedmiotu": "Zaawansowane metody analizy modeli matematycznych z zastosowaniem algorytmów.",
+    "Godziny zajęć": [
+      [
+        "9:00",
+        "10:30"
+      ],
+      [
+        "11:00",
+        "12:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Algorytmy analizy danych genomicznych",
+    "Opis przedmiotu": "Techniki przetwarzania dużych zbiorów danych genetycznych i genomowych.",
+    "Godziny zajęć": [
+      [
+        "14:45",
+        "16:15"
+      ],
+      [
+        "16:30",
+        "18:00"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Algorytmy najkrótszych ścieżek",
+    "Opis przedmiotu": "Badanie efektywnych algorytmów znajdowania optymalnych tras w grafach i sieciach.",
+    "Godziny zajęć": [
+      [
+        "8:15",
+        "9:45"
+      ],
+      [
+        "10:00",
+        "11:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Algorytmy parametryzowane",
+    "Opis przedmiotu": "Metody rozwiązywania trudnych problemów obliczeniowych poprzez parametryzację.",
+    "Godziny zajęć": [
+      [
+        "13:00",
+        "14:30"
+      ],
+      [
+        "15:00",
+        "16:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Algorytmy tekstowe",
+    "Opis przedmiotu": "Techniki przetwarzania i analizy dużych ciągów tekstowych.",
+    "Godziny zajęć": [
+      [
+        "11:45",
+        "13:15"
+      ],
+      [
+        "13:30",
+        "15:00"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Analiza adwersaryjna systemów AI",
+    "Opis przedmiotu": "Metody badania odporności systemów SI na ataki i manipulacje danych.",
+    "Godziny zajęć": [
+      [
+        "10:15",
+        "11:45"
+      ],
+      [
+        "12:00",
+        "13:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Automaty nieskończone",
+    "Opis przedmiotu": "Teoria automatów pracujących na nieskończonych słowach i jej zastosowania.",
+    "Godziny zajęć": [
+      [
+        "9:30",
+        "11:00"
+      ],
+      [
+        "11:15",
+        "12:45"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Data mining",
+    "Opis przedmiotu": "Techniki eksploracji danych i odkrywania wiedzy z dużych zbiorów informacji.",
+    "Godziny zajęć": [
+      [
+        "14:00",
+        "15:30"
+      ],
+      [
+        "16:00",
+        "17:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Deep learning in life science",
+    "Opis przedmiotu": "Zastosowania głębokiego uczenia maszynowego w naukach biologicznych i medycznych.",
+    "Godziny zajęć": [
+      [
+        "8:45",
+        "10:15"
+      ],
+      [
+        "10:30",
+        "12:00"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Ekonomia algorytmiczna",
+    "Opis przedmiotu": "Algorytmiczne podejścia do modelowania i analizy systemów ekonomicznych.",
+    "Godziny zajęć": [
+      [
+        "12:15",
+        "13:45"
+      ],
+      [
+        "14:00",
+        "15:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Geometria obliczeniowa",
+    "Opis przedmiotu": "Algorytmy rozwiązywania problemów geometrycznych z zastosowaniami w grafice i wizualizacji.",
+    "Godziny zajęć": [
+      [
+        "13:15",
+        "14:45"
+      ],
+      [
+        "15:00",
+        "16:30"
+      ]
+    ]
+  },
+  {
+    "Nazwa przedmiotu": "Głębokie sieci neuronowe",
+    "Opis przedmiotu": "Zaawansowane architektury sieci neuronowych i metody ich trenowania.",
+    "Godziny zajęć": [
+      [
+        "9:15",
+        "10:45"
+      ],
+      [
+        "11:00",
+        "12:30"
+      ]
+    ]
+  }
+]
