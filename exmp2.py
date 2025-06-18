@@ -1,7 +1,7 @@
 from swarms.structs.agent import Agent
 import os
 os.environ["GEMINI_API_KEY"] = 'AIzaSyBduble8lpssaKuTpVRBICqrO5sO3k5PUQ'
-
+#swój klucz możesz odbrać tutaj: https://aistudio.google.com/apikey
 
 # Initialize the agent with GPT-4o-mini model
 agent = Agent(
