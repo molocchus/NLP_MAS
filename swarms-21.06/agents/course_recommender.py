@@ -6,7 +6,7 @@ from general_tools import extract_courses_data
 class CourseRecommender(Agent):
     """
     Course Recommender Agent
-    This agent reads a JSON file containing academic courses and recommends courses based on user preferences collected in a survey by the SurveyConductor agent. It analyzes the courses and provides a list of recommended courses along with their descriptions.
+    This agent reads a JSON file containing academic courses and recommends courses based on user preferences collected in a survey. It analyzes the courses and provides a list of recommended courses along with their descriptions.
     
     Attributes:
         courses_file (str): Path to the JSON file containing course data.
@@ -27,10 +27,10 @@ class CourseRecommender(Agent):
         super().__init__(
             agent_name="Course-Recommender-Agent",
             agent_description="""
-            This agent reads a JSON file containing academic courses and, based on the preferences collected in a survey by the SurveyConductor agent, recommends courses that match the user's interests and academic goals. The agent will analyze the courses and provide a list of recommended courses along with their descriptions.
+            This agent reads a JSON file containing academic courses and, based on the preferences collected in a survey, recommends courses that match the user's interests and academic goals. The agent will analyze the courses and provide a list of recommended courses along with their descriptions.
             """,
             system_prompt=f"""
-            You are a Course Recommender Agent. Your task is to read a JSON file containing academic courses and recommend courses based on user preferences that were collected in a survey by the SurveyConductor agent. Your recommendations should be tailored to the user's interests and academic goals. You should recommened up to 5 courses that best match the user's preferences. Here are the courses data:
+            You are a Course Recommender Agent. Your task is to read a JSON file containing academic courses and recommend courses based on user preferences that were collected in a survey. Your recommendations should be tailored to the user's interests and academic goals. You should recommened up to 5 courses that best match the user's preferences. Here are the courses data:
             {extract_courses_data(courses_file)}
             """,
             max_loops=max_loops,
