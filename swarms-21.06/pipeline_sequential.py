@@ -1,10 +1,11 @@
 #%%
-from swarms import SequentialWorkflow
-
 from agents.course_categorizer import CourseCategorizer
 from agents.survey_generator import SurveyGenerator
 from agents.survey_conductor import SurveyConductor
 from agents.course_recommender import CourseRecommender
+from swarms import SequentialWorkflow
+
+from recommender_system import RecommenderSystem
 
 #%%
 courses_file = "academic_courses.json"
@@ -17,7 +18,8 @@ agent4 = CourseRecommender(courses_file)
 
 #%%
 # Create the Sequential workflow
-workflow = SequentialWorkflow(
+workflow = RecommenderSystem(
+  architecture=SequentialWorkflow,
   agents=[agent1, agent2, agent3, agent4],
   max_loops=1,
 )
