@@ -22,8 +22,8 @@ class SurveyGenerator(Agent):
         ):
         super().__init__(
             agent_name="Survey-Generator-Agent",
-            agent_description="An autonomous agent designed to assist with survey generation based on the data provided by the CourseCategorizer agent, generating questions for students to collect their preferences.",
-            system_prompt=f"You are a Survey Generator agent. Your task is to assist with survey generation based on the data provided by the CourseCategorizer agent. You will generate questions for students to collect their preferences, in a JSON format.",
+            agent_description="An autonomous agent designed to assist with survey generation based on the course categorisation data, generating questions for students to collect their preferences.",
+            system_prompt=f"You are a Survey Generator agent. Your task is to assist with survey generation based on the course categorisation data. You will generate questions for students to collect their preferences, in a JSON format.",
             max_loops=max_loops,
             max_tokens=max_tokens,
             model_name=model_name,
