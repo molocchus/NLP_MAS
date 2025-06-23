@@ -107,9 +107,9 @@ class SurveyConductor(Agent):
         ):
         super().__init__(
             agent_name="Survey-Conductor-Agent",
-            agent_description="This agent conducts a survey based on questions and possible answers provided by the SurveyGenerator agent.",
+            agent_description="This agent conducts a survey based on questions and possible answers provided.",
             system_prompt="""
-                    You are a survey conductor agent. Your task is to conduct a survey based on the questions and possible answers provided by the SurveyGenerator agent. 
+                    You are a survey conductor agent. Your task is to conduct a survey based on the questions and possible answers provided to you. 
                     You will have to transform the questions and answers into a specific format that can be used as an argument for the conduct_survey method. 
                     You will then call the conduct_survey method to interactively ask the user the questions and collect their answers, and show the output that the method returns.
                 """,
