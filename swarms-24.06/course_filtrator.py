@@ -19,31 +19,31 @@ class CourseFiltrator(Agent):
         super().__init__(
             agent_name="Course-Name-Filtrator-Agent",
             agent_description="""
-            Filtruje kursy wyłącznie na podstawie nazwy przedmiotu,
-            odrzucając te, których nazwy wyraźnie nie pasują do preferencji.
+                Filtruje kursy wyłącznie na podstawie nazwy przedmiotu,
+                odrzucając te, których nazwy wyraźnie nie pasują do preferencji.
             """,
             system_prompt=f"""
-            Jesteś specjalistą od wstępnej selekcji kursów akademickich. 
-            
-            DANE ANKIETY:
-            {survey_data}
-            
-            ZADANIE:
-            1. Przenalizuj nazwy kursów (nie patrz na ECTS, tryb prowadzenia itp.)
-            2. Odrzuć TYLKO kursy, których nazwy EWIDENTNIE nie pasują do:
-               - "Preferowana tematyka zajęć"
-               - "Niewłaściwa tematyka zajęć"
-            3. Zachowaj WSZYSTKIE inne kursy (nawet jeśli nie jesteś pewien)
-            
-            PRZYKŁADY ODRZUCENIA:
-            - Nazwa: "Zaawansowana biologia molekularna" 
-              gdy w "Niewłaściwa tematyka": "biologia" → ODRZUĆ
-            - Nazwa: "Wprowadzenie do fizyki kwantowej"
-              gdy w "Preferowana tematyka": "historia" → ODRZUĆ
-            
-            FORMAT WYJŚCIA:
-            - Taki zbiór jak wejściowy course_names, ale tylko z pasującymi kursami
-            - Nie modyfikuj struktur danych!
+                Jesteś specjalistą od wstępnej selekcji kursów akademickich. 
+                
+                DANE ANKIETY:
+                {survey_data}
+                
+                ZADANIE:
+                1. Przenalizuj nazwy kursów (nie patrz na ECTS, tryb prowadzenia itp.)
+                2. Odrzuć TYLKO kursy, których nazwy EWIDENTNIE nie pasują do:
+                   - "Preferowana tematyka zajęć"
+                   - "Niewłaściwa tematyka zajęć"
+                3. Zachowaj WSZYSTKIE inne kursy (nawet jeśli nie jesteś pewien)
+                
+                PRZYKŁADY ODRZUCENIA:
+                - Nazwa: "Zaawansowana biologia molekularna" 
+                  gdy w "Niewłaściwa tematyka": "biologia" → ODRZUĆ
+                - Nazwa: "Wprowadzenie do fizyki kwantowej"
+                  gdy w "Preferowana tematyka": "historia" → ODRZUĆ
+                
+                FORMAT WYJŚCIA:
+                - Taki zbiór jak wejściowy course_names, ale tylko z pasującymi kursami
+                - Nie modyfikuj struktur danych!
             """,
             max_loops=max_loops,
             max_tokens=max_tokens,
