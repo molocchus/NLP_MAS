@@ -66,7 +66,19 @@ class RecommendationsManager(Agent):
             max_loops=max_loops,
         )
 
-    def run(self, task: str):
-        while len(self.recommendations) < self.min_recommended_courses:
-            # .........
+    def update_recommendations_set(new_recommendations: set[str]) -> None:
+        self.recommendations.update(new_recommendations)
+
+    def run(self, task: str, max_iters: int):
+        iter_count = 0
+
+        while len(self.recommendations) < self.min_recommended_courses or iter_count >= max_iters:
+            iter_count += 1
+
+            workers_output = self.workers_swarm.run(...)
+
+            self.run(workers_output)
+
+
+            
             
