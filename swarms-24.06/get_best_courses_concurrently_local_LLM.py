@@ -74,8 +74,8 @@ if __name__ == "__main__":
         ) 
         for _ in range(1)  # niezależne instancje
     ]
-    
-    with open(courses_filename, "r") as file:
+
+    with open(courses_filename, "r", encoding="utf-8") as file:
         courses_data = json.load(file)
 
     course_names = list(courses_data.keys())[:1] # Limitujemy liczbę kursów dla testów
