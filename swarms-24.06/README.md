@@ -13,6 +13,8 @@ Zastanowię się czy da się ten flow jakoś uprościć, na razie zrobiłem tak,
 python recommendations_manager.py
 ```
 
+<br/>
+
 ## Czwartek, 26 czerwca
 ### Opis
 Agenci CourseRankers działają równolegle, na razie bez managera w postaci LLMa (pytanie na ile w ogóle jest potrzebny)
