@@ -38,11 +38,11 @@ if __name__ == "__main__":
     from swarm_models.huggingface import HuggingfaceLLM
 
     # Hugging Face login
-    hf_token = "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"
+    hf_token = "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"
     login(token=hf_token)
 
     # TinyLLaMA model
-    model_name = "TinyLlama/TinyLlama-1.1B-Chat-v1.0"
+    model_name = "speakleash/Bielik-1.5B-v3.0-Instruct"
 
     local_llm = HuggingfaceLLM(
         model_id=model_name,
