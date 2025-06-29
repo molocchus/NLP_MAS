@@ -7,6 +7,66 @@ from typing import Any
 from course_name_categorizer import CourseNameCategorizer
 
 #%%
+def accuracy(confusion_matrix: dict[str, int]) -> float | None:
+    """
+    Calculate the accuracy of the classification based on the confusion matrix.
+
+    Parameters:
+        confusion_matrix (dict[str, int]): A dictionary containing the counts of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
+
+    Returns:
+        float: The accuracy of the classification.
+        OR 
+        None: If the total count in the confusion matrix is zero.
+    """
+
+    total = sum(confusion_matrix.values())
+    if total == 0:
+        return None
+    
+    return (confusion_matrix['TP'] + confusion_matrix['TN']) / total
+
+
+def precision(confusion_matrix: dict[str, int]) -> float | None:
+    """
+    Calculate the precision of the classification based on the confusion matrix.
+
+    Parameters:
+        confusion_matrix (dict[str, int]): A dictionary containing the counts of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
+
+    Returns:
+        float: The precision of the classification.
+        OR 
+        None: If the True Positives and False Positives are both zero.
+    """
+
+    positives = confusion_matrix['TP'] + confusion_matrix['FP']
+    if positives == 0:
+        return None
+    
+    return confusion_matrix['TP'] / positives
+
+
+def recall(confusion_matrix: dict[str, int]) -> float | None:
+    """
+    Calculate the recall of the classification based on the confusion matrix.
+
+    Parameters:
+        confusion_matrix (dict[str, int]): A dictionary containing the counts of True Positives (TP), True Negatives (TN), False Positives (FP), and False Negatives (FN).
+
+    Returns:
+        float: The recall of the classification.
+        OR 
+        None: If the True Positives and False Negatives are both zero.
+    """
+
+    actual_positives = confusion_matrix['TP'] + confusion_matrix['FN']
+    if actual_positives == 0:
+        return None
+    
+    return confusion_matrix['TP'] / actual_positives
+
+#%%
 def evaluate(
     self, 
     preferred_category: str,
@@ -28,7 +88,7 @@ def evaluate(
         delay_between_requests (int): The delay between requests to the agent (in seconds).
 
     Returns:
-        dict[str, Any]: A dictionary containing the results for preferred and other courses, along with evaluation metrics.
+        dict[str, Any]: A dictionary containing the results for preferred and non-preferred courses, along with evaluation metrics.
 
     Raises:
         ValueError: If parameters' values are not valid, or if the agent's response is empty or not in the expected format.
@@ -65,7 +125,7 @@ def evaluate(
         raise ValueError(f"CSV file '{courses_filename}' is empty or not found.")
 
     results_for_preferred = {}
-    results_for_other = {}
+    results_for_non_preferred = {}
     courses_count = 0
 
     for course in df.to_dict(orient='records'):
@@ -101,22 +161,35 @@ def evaluate(
             # Check if the raw convergence value is greater than or equal to the threshold (which would mean that the course matches the preferred category)
             course_convergence = course_convergence_raw >= convergence_threshold
 
-        # If the course is in the preferred category, store the result in results_for_preferred (otherwise in results_for_other)
+        # Create a confusion matrix that will be used to calculate evaluation metrics
+        confusion_matrix = {
+            'TP': 0,  # True Positives
+            'TN': 0,  # True Negatives
+            'FP': 0,  # False Positives
+            'FN': 0   # False Negatives
+        }
+
+        # If the course is in the preferred category, store the result in results_for_preferred (otherwise in results_for_non_preferred)
         if preferred_category in course['kategorie']:
             results_for_preferred[course_name] = course_convergence
+            if course_convergence:
+                confusion_matrix['TP'] += 1
+            else:
+                confusion_matrix['FN'] += 1
         else:
-            results_for_other[course_name] = course_convergence
+            results_for_non_preferred[course_name] = course_convergence
+            if course_convergence:
+                confusion_matrix['FP'] += 1
+            else:
+                confusion_matrix['TN'] += 1
 
-    total_preferred_in_data = len([c for c in df.to_dict('records') if preferred_category in c['kategorie']])
-    true_positives = len([c for c in results_for_preferred if preferred_category in df[df['Nazwa'] == c]['kategorie'].iloc[0]])
-
+    # Calculate evaluation metrics based on the confusion matrix
     evaluation_metrics = {
         'preferred_courses_count': len(results_for_preferred),
-        'other_courses_count': len(results_for_other),
-        'coverage': len(results_for_preferred) / len(df) if len(df) > 0 else 0,
-        'precision': true_positives / len(results_for_preferred) if len(results_for_preferred) > 0 else 0,
-        'recall': true_positives / total_preferred_in_data if total_preferred_in_data > 0 else 0,
-        'warning': "No courses with preferred category found in data" if total_preferred_in_data == 0 else None
+        'non_preferred_courses_count': len(results_for_non_preferred),
+        'accuracy': accuracy(confusion_matrix),
+        'precision': precision(confusion_matrix),
+        'recall': recall(confusion_matrix),
     }
 
     print("Evaluation Metrics:")
@@ -124,7 +197,7 @@ def evaluate(
 
     return {
         'results_for_preferred': results_for_preferred,
-        'results_for_other': results_for_other,
+        'results_for_non_preferred': results_for_non_preferred,
         'metrics': evaluation_metrics
     }
 
