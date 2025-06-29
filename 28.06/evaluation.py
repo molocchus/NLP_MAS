@@ -127,6 +127,13 @@ def evaluate(
     results_for_preferred = {}
     results_for_non_preferred = {}
     courses_count = 0
+    time_start = time.time()
+    confusion_matrix = {
+        'TP': 0,  # True Positives
+        'TN': 0,  # True Negatives
+        'FP': 0,  # False Positives
+        'FN': 0   # False Negatives
+    }
 
     for course in df.to_dict(orient='records'):
         if how_many_courses > 0 and courses_count >= how_many_courses:
@@ -146,6 +153,7 @@ def evaluate(
         if delay_between_requests > 0:
             print(f"Delay: {delay_between_requests} second(s)...")
             time.sleep(delay_between_requests)
+            time_start += delay_between_requests # to account for the delay in the total time taken
 
         # Get the raw convergence value from the agent's response
         course_convergence_raw = agent_result_raw['zgodność tematyki zajęć']
@@ -161,14 +169,6 @@ def evaluate(
             # Check if the raw convergence value is greater than or equal to the threshold (which would mean that the course matches the preferred category)
             course_convergence = course_convergence_raw >= convergence_threshold
 
-        # Create a confusion matrix that will be used to calculate evaluation metrics
-        confusion_matrix = {
-            'TP': 0,  # True Positives
-            'TN': 0,  # True Negatives
-            'FP': 0,  # False Positives
-            'FN': 0   # False Negatives
-        }
-
         # If the course is in the preferred category, store the result in results_for_preferred (otherwise in results_for_non_preferred)
         if preferred_category in course['kategorie']:
             results_for_preferred[course_name] = course_convergence
@@ -182,14 +182,16 @@ def evaluate(
                 confusion_matrix['FP'] += 1
             else:
                 confusion_matrix['TN'] += 1
-
+    
     # Calculate evaluation metrics based on the confusion matrix
+    time_end = time.time()
     evaluation_metrics = {
         'preferred_courses_count': len(results_for_preferred),
         'non_preferred_courses_count': len(results_for_non_preferred),
         'accuracy': accuracy(confusion_matrix),
         'precision': precision(confusion_matrix),
         'recall': recall(confusion_matrix),
+        'time_taken': time_end - time_start,
     }
 
     print("Evaluation Metrics:")
@@ -220,6 +222,7 @@ if __name__ == "__main__":
         convergence_threshold=convergence_threshold,
         courses_filename="oguny_unique1.csv",
         how_many_courses=10,  # Limit to 10 for testing purposes
+        delay_between_requests=1,  # 1 second delay between requests
     )
 
     print(f"\nResults for preferred category '{preferred_category}':")
