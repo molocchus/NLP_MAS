@@ -1,0 +1,517 @@
+{
+  "Kurs na Równość - przeciwdziałanie dyskryminacji na UW - szkoły doktorskie": [
+    3,
+    "': 'nie',\n                    '",
+    "Równość i prawa człowieka"
+  ],
+  "Kurs na Równość – przeciwdziałanie dyskryminacji na UW": [
+    -1,
+    "': {'tak': 'Nie'",
+    "Równość i prawa człowieka"
+  ],
+  "Mobbing w miejscu pracy – zapobieganie, rozpoznawanie i reagowanie": [
+    0,
+    "': 'nie', '",
+    "Równość i prawa człowieka"
+  ],
+  "Oswoić trudne emocje. Spotkania z lękiem.": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Psychologia i rozwój osobisty"
+  ],
+  "Chór Wydziału Matematyki": [
+    10,
+    "':{'tak'",
+    "Muzyka i sztuka"
+  ],
+  "Filozofia nauk ścisłych i matematyki do XIX w.": [
+    0,
+    "': 'nie',\n            '",
+    "Filozofia i religia"
+  ],
+  "Kurs na Równość - przeciwdziałanie dyskryminacji na UW": [
+    0,
+    "':{'tak'",
+    "Równość i prawa człowieka"
+  ],
+  "Chemiczna analiza w badaniu środowiska": [
+    -1,
+    "': 'Tak/Nie',\n                            '",
+    "Technologie i dane"
+  ],
+  "Chemia i biologia życia codziennego, czyli jak najprościej wytłumaczyć zjawiska zachodzące wokół nas": [
+    2,
+    "\": \"nie\",\n                    \"",
+    "Nauki ścisłe i przyrodnicze"
+  ],
+  "Chemia morza i regionów polarnych": [
+    0,
+    "': 'nie',\n                            '",
+    "Nauki ścisłe i przyrodnicze"
+  ],
+  "Chemia wokół nas – zajęcia laboratoryjne": [
+    -1,
+    "': 'nie'",
+    "Nauki ścisłe i przyrodnicze"
+  ],
+  "Chór Wydziału Chemii I": [
+    6,
+    "' : 'Nie' ,\n   '",
+    "Muzyka i sztuka"
+  ],
+  "Chór Wydziału Biologii": [
+    10,
+    "' : 'nie',\n                            '",
+    "Muzyka i sztuka"
+  ],
+  "Biologia molekularna dla niebiologów": [
+    0,
+    "': false,\n                        '",
+    "Nauki ścisłe i przyrodnicze"
+  ],
+  "Biologia zapylania roślin": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Nauki ścisłe i przyrodnicze"
+  ],
+  "Historia odkryć geograficznych I": [
+    9,
+    "\": \"tak\",\n                       \"",
+    "Historia i archeologia"
+  ],
+  "Historia miasta na dawnych planach Warszawy": [
+    0,
+    "\": \"nie\", \"",
+    "Historia i archeologia"
+  ],
+  "Biblia a człowiek, polityka, wojny i władza": [
+    6,
+    "': 'nie', '",
+    "Prawo i polityka"
+  ],
+  "Prawo reklamy": [
+    0,
+    "': 'nie', '",
+    "Prawo i polityka"
+  ],
+  "Prawo dyplomatyczne i konsularne": [
+    7,
+    "': 'tak',\n  '",
+    "Prawo i polityka"
+  ],
+  "Międzynarodowe prawo karne": [
+    0,
+    "\": \"nie\",\n    \"",
+    "Prawo i polityka"
+  ],
+  "Polskie prawo wyznaniowe": [
+    0,
+    "' : 'nie',\n                            '",
+    "Prawo i polityka"
+  ],
+  "Warszawa wielokulturowa – historia i teraźniejszość": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Historia i archeologia"
+  ],
+  "Program R w zastosowaniach ekonomicznych i finansowych (kurs internetowy)": [
+    0,
+    "':'nie',\n                       ",
+    "Technologie i dane"
+  ],
+  "Microsoft Excel - kurs podstawowy (kurs internetowy)": [
+    0,
+    "': 'nie', '",
+    "Technologie i dane"
+  ],
+  "Zarządzanie sobą": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Ekonomia i zarządzanie"
+  ],
+  "Media a celebryci": [
+    0,
+    "': 'nie',\n                    '",
+    "Media i komunikacja"
+  ],
+  "Zarządzanie sytuacjami kryzysowymi w perspektywie public relations": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Ekonomia i zarządzanie"
+  ],
+  "Archeologia w czasach popkultury": [
+    -1,
+    "': 'nie'\n                    ",
+    "Historia i archeologia"
+  ],
+  "Mass media w starożytnej Grecji": [
+    8,
+    "': 'tak',\n                      '",
+    "Media i komunikacja"
+  ],
+  "Co powiedział Zaratustra. Historia religii zoroastryjskiej": [
+    -1,
+    "': 'nie',\n                            'zgodność tematów': '5'\n                        ",
+    "Historia i archeologia"
+  ],
+  "\"Historia zaczyna się w Sumerze\" - Mezopotamia kolebką cywilizacji": [
+    0,
+    "\": \"false\",\n                    \"",
+    "Historia i archeologia"
+  ],
+  "Kulturowa historia Bałkanów": [
+    8,
+    "':{'tak'",
+    "Historia i archeologia"
+  ],
+  "Język staro-cerkiewno-słowiański (1)": [
+    -1,
+    "':{tak/nie w zależności od",
+    "Języki i kultury świata"
+  ],
+  "Literatura nowołacińska okresu renesansu": [
+    2,
+    "': 'nie', \n                        '",
+    "Języki i kultury świata"
+  ],
+  "Antropologia wina": [
+    6,
+    "\": \"nie\",\n                    \"",
+    "Socjologia i antropologia"
+  ],
+  "Analiza dyskursu multimodalnego": [
+    0,
+    "': 'nie', '",
+    "Technologie i dane"
+  ],
+  "Analiza konwersacji": [
+    5,
+    "': 'nie', '",
+    "Technologie i dane"
+  ],
+  "Język i stosunki międzynarodowe": [
+    1,
+    "': false,\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Tłumacz a komunikacja międzykulturowa": [
+    2,
+    "': 'nie',\n\n                    '",
+    "Media i komunikacja"
+  ],
+  "Język białoruski w przestrzeni medialnej": [
+    7,
+    "' : 'nie',\n                        '",
+    "Języki i kultury świata"
+  ],
+  "Współczesny język białoruski w mediach internetowych": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Języki i kultury świata"
+  ],
+  "Historia literatury białoruskiej XX wieku (lata 30.-60.)": [
+    3,
+    "': 'tak/nie', '",
+    "Historia i archeologia"
+  ],
+  "Współczesna literatura białoruska I": [
+    6,
+    "': 'nie',\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej": [
+    0,
+    "': 'nie',\n    '",
+    "Języki i kultury świata"
+  ],
+  "Język ukraiński w dyplomacji i polityce": [
+    0,
+    "': 'nie' (nie pasuje), '",
+    "Języki i kultury świata"
+  ],
+  "Język ukraiński w mediach": [
+    1,
+    "\": \"nie\", \"",
+    "Języki i kultury świata"
+  ],
+  "Język ukraiński w prawie cywilnym i rodzinnym": [
+    0,
+    "': {",
+    "Języki i kultury świata"
+  ],
+  "Ukraina a Europa (historia,kultura, literatura) 3": [
+    10,
+    "': 'nie',\n                '",
+    "Historia i archeologia, Języki i kultury świata"
+  ],
+  "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia": [
+    0,
+    "': 'nie',\n                        '",
+    "Języki i kultury świata"
+  ],
+  "Literatura anglojęzycznego obszaru językowego, cz. 1": [
+    -1,
+    "': {'tak'",
+    "Języki i kultury świata"
+  ],
+  "Język niemiecki dla zaawansowanych (poziom B2/C1)": [
+    10,
+    "': 'tak',\n                           '",
+    "Języki i kultury świata"
+  ],
+  "Język niderlandzki od podstaw z kulturą Niderlandów w tle - online": [
+    0,
+    "': 'nie',\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Muzycy i muzyka popularna w krajach niemieckojęzycznych": [
+    9,
+    "\":\"tak\",\"",
+    "Muzyka i sztuka"
+  ],
+  "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Języki i kultury świata"
+  ],
+  "Kultura kulinarna - o niemieckiej kuchni i jej związkach z regionem i lokalną tradycją": [
+    0,
+    "': 'nie',\n                        '",
+    "Języki i kultury świata"
+  ],
+  "Tureccy gastarbeiterzy i ich potomkowie w Niemczech. Historia Literatura Kultura": [
+    -1,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Historia i archeologia, Języki i kultury świata"
+  ],
+  "Historia i kultura Francji Ip": [
+    0,
+    "\": \"nie\",\n                            \"",
+    "Historia i archeologia, Języki i kultury świata"
+  ],
+  "Edukacja językowa w XXI wieku": [
+    -1,
+    "': \"nie\",\n                        '",
+    "Edukacja i dydaktyka"
+  ],
+  "Historia i kultura Francji. Wykład w języku francuskim": [
+    0,
+    "': 'nie',\n                    '",
+    "Historia i archeologia, Języki i kultury świata"
+  ],
+  "Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna": [
+    0,
+    "': 'nie',\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Język i kultura galisyjska A1": [
+    0,
+    "': 'nie',\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Język i kultura galisyjska B1": [
+    0,
+    "': 'tak', '",
+    "Języki i kultury świata"
+  ],
+  "Język i kultura katalońska B1": [
+    0,
+    "': 'nie' \n                        '",
+    "Języki i kultury świata"
+  ],
+  "Komunikacja multimodalna w interakcjach twarzą w twarz": [
+    -1,
+    "': 'nie', '",
+    "Media i komunikacja"
+  ],
+  "Komunikacja w praktyce - rozpoznawanie problemów": [
+    0,
+    "': {'tak'",
+    "Media i komunikacja"
+  ],
+  "Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych": [
+    0,
+    "': 'nie',\n                                '",
+    "Media i komunikacja"
+  ],
+  "Socjologia pracy": [
+    0,
+    "': 'nie',\n                    '",
+    "Socjologia i antropologia"
+  ],
+  "Prawo i płeć": [
+    0,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Prawo i polityka"
+  ],
+  "Antropologia współczesności: teorie, metody, program badawczy": [
+    0,
+    "': 'nie',\n                             '",
+    "Socjologia i antropologia, Technologie i dane"
+  ],
+  "Antropologia prawa i wielość kultur prawnych": [
+    3,
+    "': 'nie', \n                     ",
+    "Socjologia i antropologia"
+  ],
+  "Prawo o organizacjach pozarządowych": [
+    5,
+    "': 'nie',\n                '",
+    "Prawo i polityka"
+  ],
+  "Zarządzanie projektami": [
+    2,
+    "': 'nie',\n'",
+    "Ekonomia i zarządzanie"
+  ],
+  "Zarządzanie różnymi grupami pracowników": [
+    5,
+    "': 'nie',\n                    '",
+    "Ekonomia i zarządzanie"
+  ],
+  "Socjologia przestępczości: spory wokół polityki karania": [
+    10,
+    "': 'tak',\n                        '",
+    "Socjologia i antropologia"
+  ],
+  "Antropologia. Historia, teoria i praktyka badawcza": [
+    0,
+    "':{tak/nie w zależności od tego czy pasuje czy nie",
+    "Historia i archeologia, Socjologia i antropologia"
+  ],
+  "Socjologia dewiacji": [
+    0,
+    "': 'nie'\n                            '",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia ekonomiczna": [
+    4,
+    "': {'nie'",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia migracji": [
+    7,
+    "': 'Nie',\n                        '",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia kampanii wyborczej": [
+    3,
+    "': 'nie',\n                    '",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia interakcji społecznych": [
+    3,
+    "\": \"nie\",\n  \"",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia kulturowa": [
+    0,
+    "': 'tak',\n                            '",
+    "Socjologia i antropologia"
+  ],
+  "Socjologia lokalności": [
+    7,
+    "': 'nie', '",
+    "Socjologia i antropologia"
+  ],
+  "Religia starożytnego Egiptu": [
+    -1,
+    "': 'Nie',\n                        '",
+    "Filozofia i religia"
+  ],
+  "Historia Azji Środkowej i Mongolii (cz. 2, XX i XXI w.)": [
+    10,
+    "' : 'tak',\n                        '",
+    "Historia i archeologia"
+  ],
+  "Państwo Izrael-instytucje i polityka": [
+    0,
+    "': 'nie',\n                        '",
+    "Prawo i polityka"
+  ],
+  "Kultura biznesu w Azji i Afryce": [
+    -1,
+    "': 'nie', '",
+    "Języki i kultury świata"
+  ],
+  "Historia Azji Środkowej i Mongolii (cz.1) (Z)": [
+    0,
+    "': 'nie'",
+    "Historia i archeologia"
+  ],
+  "Historia Tybetu": [
+    10,
+    "': 'nie',\n             ",
+    "Historia i archeologia"
+  ],
+  "Nie tylko Pamuk: literatura turecka po polsku": [
+    -1,
+    "': {\n\n                        'tak/nie': 'nie'\n                    ",
+    "Języki i kultury świata"
+  ],
+  "Historia Turcji II": [
+    6,
+    "': {'nie'",
+    "Historia i archeologia"
+  ],
+  "Kultura Azerbejdżanu": [
+    0,
+    "':'nie', '",
+    "Języki i kultury świata"
+  ],
+  "Antropologia etniczności i nacjonalizmu1": [
+    8,
+    "': 'nie',\n                    '",
+    "Socjologia i antropologia"
+  ],
+  "Horrory Europy Wschodniej: kultura grozy krajów poradzieckiech": [
+    6,
+    "': 'nie',\n                    '",
+    "Języki i kultury świata"
+  ],
+  "Historia praktyczna. Nauki historyczne w przestrzeni publicznej": [
+    5,
+    "': 'nie',\n                        '",
+    "Historia i archeologia"
+  ],
+  "Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego": [
+    -1,
+    "':'nie' ",
+    "Historia i archeologia"
+  ],
+  "Polityka historyczna państw postsowieckich (Rosja, Ukraina, Białoruś)": [
+    10,
+    "\": \"nie\",\n    \"",
+    "Prawo i polityka"
+  ],
+  "Współczesna Gruzja. Życie codzienne, społeczeństwo, kultura, polityka": [
+    10,
+    "':'nie',\n                        '",
+    "Języki i kultury świata, Prawo i polityka"
+  ],
+  "Historia integracji europejskiej: od zarania do współczesności": [
+    8,
+    "': 'nie',\n                        '",
+    "Historia i archeologia"
+  ],
+  "Taniec i śpiew - folklor różnych regionów Polski": [
+    0,
+    "\": \"nie\",\n    \"",
+    "Muzyka i sztuka"
+  ],
+  "Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny": [
+    0,
+    "':'nie',\n                '",
+    "Sport, gry i rekreacja"
+  ],
+  "Szachy – grupa początkująca – kurs intensywny": [
+    3,
+    "': 'nie',\n                        '",
+    "Sport, gry i rekreacja"
+  ],
+  "Szachy – grupa średnio-zaawansowana – kurs intensywny": [
+    0,
+    "': {'nie'",
+    "Sport, gry i rekreacja"
+  ]
+}

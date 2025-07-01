@@ -1,0 +1,32 @@
+# Recomendations:
+Bielik:
+WHOLE TIME: 1h 26m 44.9s
+RUNS: 240
+TIME PER ONE OUTPUT: 21.68s
+
+Open Ai gpt-4.1-nano
+WHOLE TIME: 6m 14.2s
+RUNS: 240
+TIME PER ONE OUTPUT: 1.55s
+
+Open Ai gpt-4o-mini
+WHOLE TIME: 0h 20m 43.3s
+RUNS: 240
+TIME PER ONE OUTPUT: 5.17s
+
+# Filtering:
+## One by one:
+Bielik
+WHOLE TIME: 2h 4m 36.3s
+RUNS: 444
+TIME PER ONE OUTPUT: 16.83s
+
+Open Ai gpt-4.1-nano
+WHOLE TIME: 5m 37.7s
+RUNS: 444
+TIME PER ONE OUTPUT: 0.76s
+
+Open Ai gpt-4o-mini
+WHOLE TIME: 13m 28.9s
+RUNS: 444
+TIME PER ONE OUTPUT: 1.82s

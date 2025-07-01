@@ -1,0 +1,754 @@
+{
+  "Tryb": {
+    "zdalnie": {
+      "Muzycy i muzyka popularna w krajach niemieckojęzycznych_Język i stosunki międzynarodowe": [
+        10,
+        5
+      ],
+      "Muzycy i muzyka popularna w krajach niemieckojęzycznych_Język ukraiński w dyplomacji i polityce": [
+        10,
+        2
+      ],
+      "Współczesna Gruzja. Życie codzienne, społeczeństwo, kultura, polityka_Archeologia w czasach popkultury": [
+        10,
+        2
+      ],
+      "Mobbing w miejscu pracy – zapobieganie, rozpoznawanie i reagowanie_Język ukraiński w mediach": [
+        10,
+        2
+      ],
+      "Muzycy i muzyka popularna w krajach niemieckojęzycznych_Literatura anglojęzycznego obszaru językowego, cz. 1": [
+        10,
+        2
+      ],
+      "Kurs na Równość - przeciwdziałanie dyskryminacji na UW_Chemiczna analiza w badaniu środowiska": [
+        10,
+        2
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Chór Wydziału Chemii I": [
+        10,
+        0
+      ],
+      "Historia praktyczna. Nauki historyczne w przestrzeni publicznej_Język ukraiński w dyplomacji i polityce": [
+        10,
+        2
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Prawo dyplomatyczne i konsularne": [
+        10,
+        2
+      ],
+      "Kurs na Równość - przeciwdziałanie dyskryminacji na UW_Religia starożytnego Egiptu": [
+        10,
+        0
+      ]
+    },
+    "mieszany: w sali i zdalnie": {
+      "Historia i kultura Francji. Wykład w języku francuskim_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych": [
+        10,
+        4
+      ],
+      "Chemia i biologia życia codziennego, czyli jak najprościej wytłumaczyć zjawiska zachodzące wokół nas_Biologia zapylania roślin": [
+        10,
+        4
+      ],
+      "Historia Tybetu_Prawo dyplomatyczne i konsularne": [
+        10,
+        3
+      ],
+      "Historia i kultura Francji. Wykład w języku francuskim_Socjologia ekonomiczna": [
+        10,
+        4
+      ],
+      "Chemia morza i regionów polarnych_Szachy – grupa średnio-zaawansowana – kurs intensywny": [
+        10,
+        4
+      ],
+      "Nie tylko Pamuk: literatura turecka po polsku_Komunikacja w praktyce - rozpoznawanie problemów": [
+        10,
+        4
+      ],
+      "Nie tylko Pamuk: literatura turecka po polsku_Język i kultura katalońska B1": [
+        10,
+        3
+      ],
+      "Historia Turcji II_Horrory Europy Wschodniej: kultura grozy krajów poradzieckiech": [
+        10,
+        3
+      ],
+      "Biologia molekularna dla niebiologów_Język staro-cerkiewno-słowiański (1)": [
+        10,
+        4
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Socjologia kulturowa": [
+        10,
+        4
+      ]
+    },
+    "w sali": {
+      "Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna_Historia literatury białoruskiej XX wieku (lata 30.-60.)": [
+        10,
+        6
+      ],
+      "Historia Azji Środkowej i Mongolii (cz. 2, XX i XXI w.)_Microsoft Excel - kurs podstawowy (kurs internetowy)": [
+        10,
+        2
+      ],
+      "Analiza konwersacji_Zarządzanie sytuacjami kryzysowymi w perspektywie public relations": [
+        10,
+        2
+      ],
+      "Warszawa wielokulturowa – historia i teraźniejszość_Program R w zastosowaniach ekonomicznych i finansowych (kurs internetowy)": [
+        7,
+        2
+      ],
+      "Edukacja językowa w XXI wieku_Mass media w starożytnej Grecji": [
+        10,
+        2
+      ],
+      "Socjologia przestępczości: spory wokół polityki karania_Kurs na Równość – przeciwdziałanie dyskryminacji na UW": [
+        10,
+        2
+      ],
+      "Międzynarodowe prawo karne_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych": [
+        10,
+        2
+      ],
+      "Język ukraiński w mediach_Historia integracji europejskiej: od zarania do współczesności": [
+        10,
+        2
+      ],
+      "Język staro-cerkiewno-słowiański (1)_Nie tylko Pamuk: literatura turecka po polsku": [
+        10,
+        5
+      ],
+      "Historia Azji Środkowej i Mongolii (cz. 2, XX i XXI w.)_Nie tylko Pamuk: literatura turecka po polsku": [
+        10,
+        5
+      ]
+    }
+  },
+  "Kryteria": {
+    "Esej/praca pisemna": {
+      "Historia praktyczna. Nauki historyczne w przestrzeni publicznej_Socjologia przestępczości: spory wokół polityki karania": [
+        10,
+        2
+      ],
+      "Socjologia kulturowa_Chór Wydziału Chemii I": [
+        10,
+        2
+      ],
+      "Międzynarodowe prawo karne_Zarządzanie sytuacjami kryzysowymi w perspektywie public relations": [
+        10,
+        6
+      ],
+      "Media a celebryci_Chemia morza i regionów polarnych": [
+        10,
+        3
+      ],
+      "Zarządzanie sobą_Komunikacja multimodalna w interakcjach twarzą w twarz": [
+        10,
+        8
+      ],
+      "Język staro-cerkiewno-słowiański (1)_Historia miasta na dawnych planach Warszawy": [
+        8,
+        6
+      ],
+      "Współczesna Gruzja. Życie codzienne, społeczeństwo, kultura, polityka_Szachy – grupa początkująca – kurs intensywny": [
+        10,
+        2
+      ],
+      "Historia integracji europejskiej: od zarania do współczesności_Chemia wokół nas – zajęcia laboratoryjne": [
+        3,
+        2
+      ],
+      "Język i stosunki międzynarodowe_Analiza konwersacji": [
+        9,
+        4
+      ],
+      "Język staro-cerkiewno-słowiański (1)_Ukraina a Europa (historia,kultura, literatura) 3": [
+        8,
+        7
+      ]
+    },
+    "Obecność/aktywność": {
+      "Antropologia prawa i wielość kultur prawnych_Zarządzanie sobą": [
+        9,
+        5
+      ],
+      "Historia integracji europejskiej: od zarania do współczesności_Chemiczna analiza w badaniu środowiska": [
+        6,
+        9
+      ],
+      "Socjologia lokalności_Chemia i biologia życia codziennego, czyli jak najprościej wytłumaczyć zjawiska zachodzące wokół nas": [
+        9,
+        9
+      ],
+      "Język ukraiński w mediach_Historia miasta na dawnych planach Warszawy": [
+        6,
+        6
+      ],
+      "Język ukraiński w dyplomacji i polityce_Zarządzanie sobą": [
+        6,
+        5
+      ],
+      "Nie tylko Pamuk: literatura turecka po polsku_Tureccy gastarbeiterzy i ich potomkowie w Niemczech. Historia Literatura Kultura": [
+        6,
+        6
+      ],
+      "Współczesna literatura białoruska I_Język i kultura katalońska B1": [
+        9,
+        10
+      ],
+      "Chór Wydziału Biologii_Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna": [
+        9,
+        6
+      ],
+      "Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_Co powiedział Zaratustra. Historia religii zoroastryjskiej": [
+        6,
+        5
+      ],
+      "Język i stosunki międzynarodowe_Filozofia nauk ścisłych i matematyki do XIX w.": [
+        9,
+        6
+      ]
+    },
+    "Test/egzamin": {
+      "Antropologia. Historia, teoria i praktyka badawcza_Zarządzanie różnymi grupami pracowników": [
+        9,
+        6
+      ],
+      "Chemia morza i regionów polarnych_Zarządzanie sobą": [
+        6,
+        4
+      ],
+      "Socjologia interakcji społecznych_Historia praktyczna. Nauki historyczne w przestrzeni publicznej": [
+        9,
+        4
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Zarządzanie sytuacjami kryzysowymi w perspektywie public relations": [
+        9,
+        10
+      ],
+      "Socjologia dewiacji_Historia odkryć geograficznych I": [
+        10,
+        6
+      ],
+      "Szachy – grupa średnio-zaawansowana – kurs intensywny_Warszawa wielokulturowa – historia i teraźniejszość": [
+        10,
+        3
+      ],
+      "Współczesna literatura białoruska I_Prawo i płeć": [
+        4,
+        3
+      ],
+      "Państwo Izrael-instytucje i polityka_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych": [
+        10,
+        3
+      ],
+      "Język ukraiński w dyplomacji i polityce_Zarządzanie projektami": [
+        9,
+        4
+      ],
+      "Socjologia migracji_Chór Wydziału Chemii I": [
+        10,
+        2
+      ]
+    }
+  },
+  "Tematyka": {
+    "Języki i kultury świata": {
+      "Język ukraiński w dyplomacji i polityce_Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego": [
+        8,
+        4
+      ],
+      "Współczesna literatura białoruska I_Biblia a człowiek, polityka, wojny i władza": [
+        8,
+        4
+      ],
+      "Język i kultura katalońska B1_Polityka historyczna państw postsowieckich (Rosja, Ukraina, Białoruś)": [
+        8,
+        4
+      ],
+      "Współczesna literatura białoruska I_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny": [
+        8,
+        2
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Antropologia wina": [
+        8,
+        7
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Socjologia migracji": [
+        8,
+        6
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Socjologia kampanii wyborczej": [
+        8,
+        3
+      ],
+      "Kultura kulinarna - o niemieckiej kuchni i jej związkach z regionem i lokalną tradycją_Microsoft Excel - kurs podstawowy (kurs internetowy)": [
+        7,
+        2
+      ],
+      "Kultura Azerbejdżanu_Historia literatury białoruskiej XX wieku (lata 30.-60.)": [
+        8,
+        7
+      ],
+      "Język niderlandzki od podstaw z kulturą Niderlandów w tle - online_Biologia molekularna dla niebiologów": [
+        10,
+        2
+      ]
+    },
+    "Historia i archeologia": {
+      "Historia Azji Środkowej i Mongolii (cz. 2, XX i XXI w.)_Chemia i biologia życia codziennego, czyli jak najprościej wytłumaczyć zjawiska zachodzące wokół nas": [
+        9,
+        2
+      ],
+      "Historia odkryć geograficznych I_Chemiczna analiza w badaniu środowiska": [
+        9,
+        2
+      ],
+      "Historia odkryć geograficznych I_Tureccy gastarbeiterzy i ich potomkowie w Niemczech. Historia Literatura Kultura": [
+        9,
+        7
+      ],
+      "\"Historia zaczyna się w Sumerze\" - Mezopotamia kolebką cywilizacji_Współczesna Gruzja. Życie codzienne, społeczeństwo, kultura, polityka": [
+        10,
+        6
+      ],
+      "Historia praktyczna. Nauki historyczne w przestrzeni publicznej_Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia": [
+        9,
+        7
+      ],
+      "Historia odkryć geograficznych I_Socjologia interakcji społecznych": [
+        9,
+        3
+      ],
+      "Historia Tybetu_Filozofia nauk ścisłych i matematyki do XIX w.": [
+        9,
+        3
+      ],
+      "Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego_Historia i kultura Francji Ip": [
+        8,
+        8
+      ],
+      "Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych": [
+        8,
+        3
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Microsoft Excel - kurs podstawowy (kurs internetowy)": [
+        6,
+        2
+      ]
+    },
+    "Socjologia i antropologia": {
+      "Antropologia wina_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny": [
+        8,
+        2
+      ],
+      "Antropologia etniczności i nacjonalizmu1_Współczesna Gruzja. Życie codzienne, społeczeństwo, kultura, polityka": [
+        9,
+        8
+      ],
+      "Antropologia prawa i wielość kultur prawnych_Kurs na Równość – przeciwdziałanie dyskryminacji na UW": [
+        9,
+        8
+      ],
+      "Antropologia etniczności i nacjonalizmu1_Muzycy i muzyka popularna w krajach niemieckojęzycznych": [
+        9,
+        3
+      ],
+      "Socjologia kampanii wyborczej_Tureccy gastarbeiterzy i ich potomkowie w Niemczech. Historia Literatura Kultura": [
+        9,
+        8
+      ],
+      "Antropologia prawa i wielość kultur prawnych_Religia starożytnego Egiptu": [
+        9,
+        4
+      ],
+      "Antropologia wina_Język ukraiński w mediach": [
+        8,
+        3
+      ],
+      "Socjologia kampanii wyborczej_Horrory Europy Wschodniej: kultura grozy krajów poradzieckiech": [
+        9,
+        6
+      ],
+      "Antropologia prawa i wielość kultur prawnych_\"Historia zaczyna się w Sumerze\" - Mezopotamia kolebką cywilizacji": [
+        9,
+        5
+      ],
+      "Socjologia dewiacji_Mass media w starożytnej Grecji": [
+        9,
+        5
+      ]
+    }
+  },
+  "wszystkie": {
+    "w1": {
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Komunikacja multimodalna w interakcjach twarzą w twarz_tryb": [
+        10,
+        10
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Komunikacja multimodalna w interakcjach twarzą w twarz_kryterium": [
+        6,
+        3
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Komunikacja multimodalna w interakcjach twarzą w twarz_tematyka": [
+        8,
+        6
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Chór Wydziału Biologii_tryb": [
+        10,
+        0
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Chór Wydziału Biologii_kryterium": [
+        6,
+        1
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Chór Wydziału Biologii_tematyka": [
+        8,
+        2
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Nie tylko Pamuk: literatura turecka po polsku_tryb": [
+        10,
+        5
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Nie tylko Pamuk: literatura turecka po polsku_kryterium": [
+        7,
+        4
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Nie tylko Pamuk: literatura turecka po polsku_tematyka": [
+        8,
+        8
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język i stosunki międzynarodowe_tryb": [
+        10,
+        6
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język i stosunki międzynarodowe_kryterium": [
+        7,
+        7
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język i stosunki międzynarodowe_tematyka": [
+        8,
+        8
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_tryb": [
+        10,
+        2
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_kryterium": [
+        7,
+        4
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_tematyka": [
+        8,
+        8
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_tryb": [
+        10,
+        0
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_kryterium": [
+        7,
+        3
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_tematyka": [
+        8,
+        2
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego_tryb": [
+        10,
+        8
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego_kryterium": [
+        7,
+        3
+      ],
+      "Język niemiecki dla zaawansowanych (poziom B2/C1)_Kuszenie wolnością: historia i władza w obiektywie kina sowieckiego_tematyka": [
+        8,
+        4
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Socjologia dewiacji_tryb": [
+        10,
+        0
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Socjologia dewiacji_kryterium": [
+        6,
+        5
+      ],
+      "Kontakty polsko-włoskie na przestrzeni wieków (dyplomacja, kultura, literatura). Wybrane zagadnienia_Socjologia dewiacji_tematyka": [
+        8,
+        2
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Oswoić trudne emocje. Spotkania z lękiem._tryb": [
+        10,
+        10
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Oswoić trudne emocje. Spotkania z lękiem._kryterium": [
+        7,
+        5
+      ],
+      "Język niemiecki dla obcokrajowców A1/5 (German in English A1/part 5)_Oswoić trudne emocje. Spotkania z lękiem._tematyka": [
+        8,
+        3
+      ],
+      "Język niderlandzki od podstaw z kulturą Niderlandów w tle - online_Tłumacz a komunikacja międzykulturowa_tryb": [
+        10,
+        2
+      ],
+      "Język niderlandzki od podstaw z kulturą Niderlandów w tle - online_Tłumacz a komunikacja międzykulturowa_kryterium": [
+        7,
+        5
+      ],
+      "Język niderlandzki od podstaw z kulturą Niderlandów w tle - online_Tłumacz a komunikacja międzykulturowa_tematyka": [
+        10,
+        8
+      ]
+    },
+    "w2": {
+      "Historia Tybetu_Zarządzanie różnymi grupami pracowników_tryb": [
+        10,
+        4
+      ],
+      "Historia Tybetu_Zarządzanie różnymi grupami pracowników_kryterium": [
+        8,
+        3
+      ],
+      "Historia Tybetu_Zarządzanie różnymi grupami pracowników_tematyka": [
+        9,
+        2
+      ],
+      "Historia Turcji II_Kulturowa historia Bałkanów_tryb": [
+        10,
+        3
+      ],
+      "Historia Turcji II_Kulturowa historia Bałkanów_kryterium": [
+        6,
+        5
+      ],
+      "Historia Turcji II_Kulturowa historia Bałkanów_tematyka": [
+        8,
+        8
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych_tryb": [
+        10,
+        4
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych_kryterium": [
+        7,
+        2
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Komunikacja w praktyce - interpretacja i tworzenie tekstów użytkowych_tematyka": [
+        6,
+        3
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kurs na Równość - przeciwdziałanie dyskryminacji na UW_tryb": [
+        10,
+        4
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kurs na Równość - przeciwdziałanie dyskryminacji na UW_kryterium": [
+        7,
+        2
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kurs na Równość - przeciwdziałanie dyskryminacji na UW_tematyka": [
+        6,
+        3
+      ],
+      "Historia Tybetu_Antropologia etniczności i nacjonalizmu1_tryb": [
+        10,
+        4
+      ],
+      "Historia Tybetu_Antropologia etniczności i nacjonalizmu1_kryterium": [
+        8,
+        3
+      ],
+      "Historia Tybetu_Antropologia etniczności i nacjonalizmu1_tematyka": [
+        9,
+        6
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kulturowa historia Bałkanów_tryb": [
+        10,
+        3
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kulturowa historia Bałkanów_kryterium": [
+        7,
+        5
+      ],
+      "Historia literatury białoruskiej XX wieku (lata 30.-60.)_Kulturowa historia Bałkanów_tematyka": [
+        6,
+        8
+      ],
+      "Historia Tybetu_Filozofia nauk ścisłych i matematyki do XIX w._tryb": [
+        10,
+        2
+      ],
+      "Historia Tybetu_Filozofia nauk ścisłych i matematyki do XIX w._kryterium": [
+        8,
+        4
+      ],
+      "Historia Tybetu_Filozofia nauk ścisłych i matematyki do XIX w._tematyka": [
+        9,
+        3
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Język i stosunki międzynarodowe_tryb": [
+        10,
+        10
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Język i stosunki międzynarodowe_kryterium": [
+        8,
+        8
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Język i stosunki międzynarodowe_tematyka": [
+        9,
+        5
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Prawo i płeć_tryb": [
+        10,
+        2
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Prawo i płeć_kryterium": [
+        8,
+        1
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Prawo i płeć_tematyka": [
+        9,
+        3
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Socjologia kulturowa_tryb": [
+        10,
+        2
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Socjologia kulturowa_kryterium": [
+        8,
+        8
+      ],
+      "Historia Azji Środkowej i Mongolii (cz.1) (Z)_Socjologia kulturowa_tematyka": [
+        9,
+        4
+      ]
+    },
+    "w3": {
+      "Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_tryb": [
+        10,
+        10
+      ],
+      "Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_kryterium": [
+        6,
+        4
+      ],
+      "Seminarium tematyczne : W poszukiwaniu (nowej?) tożsamości: quebecka literatura migracyjna_Brydż Sportowy - grupa średnio-zaawansowana-kurs intensywny_tematyka": [
+        8,
+        2
+      ],
+      "Literatura nowołacińska okresu renesansu_Historia literatury białoruskiej XX wieku (lata 30.-60.)_tryb": [
+        10,
+        5
+      ],
+      "Literatura nowołacińska okresu renesansu_Historia literatury białoruskiej XX wieku (lata 30.-60.)_kryterium": [
+        10,
+        4
+      ],
+      "Literatura nowołacińska okresu renesansu_Historia literatury białoruskiej XX wieku (lata 30.-60.)_tematyka": [
+        7,
+        6
+      ],
+      "Język i kultura galisyjska A1_Kultura kulinarna - o niemieckiej kuchni i jej związkach z regionem i lokalną tradycją_tryb": [
+        10,
+        2
+      ],
+      "Język i kultura galisyjska A1_Kultura kulinarna - o niemieckiej kuchni i jej związkach z regionem i lokalną tradycją_kryterium": [
+        9,
+        3
+      ],
+      "Język i kultura galisyjska A1_Kultura kulinarna - o niemieckiej kuchni i jej związkach z regionem i lokalną tradycją_tematyka": [
+        8,
+        5
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Historia literatury białoruskiej XX wieku (lata 30.-60.)_tryb": [
+        10,
+        5
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Historia literatury białoruskiej XX wieku (lata 30.-60.)_kryterium": [
+        7,
+        4
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Historia literatury białoruskiej XX wieku (lata 30.-60.)_tematyka": [
+        8,
+        6
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Analiza konwersacji_tryb": [
+        10,
+        10
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Analiza konwersacji_kryterium": [
+        9,
+        6
+      ],
+      "Literatura anglojęzycznego obszaru językowego, cz. 1_Analiza konwersacji_tematyka": [
+        8,
+        4
+      ],
+      "Współczesny język białoruski w mediach internetowych_Komunikacja multimodalna w interakcjach twarzą w twarz_tryb": [
+        10,
+        2
+      ],
+      "Współczesny język białoruski w mediach internetowych_Komunikacja multimodalna w interakcjach twarzą w twarz_kryterium": [
+        8,
+        8
+      ],
+      "Współczesny język białoruski w mediach internetowych_Komunikacja multimodalna w interakcjach twarzą w twarz_tematyka": [
+        7,
+        6
+      ],
+      "Współczesny język białoruski w mediach internetowych_Taniec i śpiew - folklor różnych regionów Polski_tryb": [
+        10,
+        10
+      ],
+      "Współczesny język białoruski w mediach internetowych_Taniec i śpiew - folklor różnych regionów Polski_kryterium": [
+        8,
+        2
+      ],
+      "Współczesny język białoruski w mediach internetowych_Taniec i śpiew - folklor różnych regionów Polski_tematyka": [
+        7,
+        4
+      ],
+      "Język ukraiński w dyplomacji i polityce_Język ukraiński w prawie cywilnym i rodzinnym_tryb": [
+        10,
+        10
+      ],
+      "Język ukraiński w dyplomacji i polityce_Język ukraiński w prawie cywilnym i rodzinnym_kryterium": [
+        10,
+        7
+      ],
+      "Język ukraiński w dyplomacji i polityce_Język ukraiński w prawie cywilnym i rodzinnym_tematyka": [
+        8,
+        6
+      ],
+      "Współczesny język białoruski w mediach internetowych_Kurs na Równość – przeciwdziałanie dyskryminacji na UW_tryb": [
+        10,
+        1
+      ],
+      "Współczesny język białoruski w mediach internetowych_Kurs na Równość – przeciwdziałanie dyskryminacji na UW_kryterium": [
+        8,
+        2
+      ],
+      "Współczesny język białoruski w mediach internetowych_Kurs na Równość – przeciwdziałanie dyskryminacji na UW_tematyka": [
+        7,
+        3
+      ],
+      "Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_Prawo reklamy_tryb": [
+        10,
+        10
+      ],
+      "Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_Prawo reklamy_kryterium": [
+        6,
+        2
+      ],
+      "Język angielski w marketingu - biznes w Europie Środkowo-Wschodniej_Prawo reklamy_tematyka": [
+        7,
+        3
+      ]
+    }
+  }
+}
